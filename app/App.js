@@ -1,6 +1,6 @@
-var React = require('react');
+let React = require('react');
 
-var HelloWorld = React.createClass({
+let HelloWorld = React.createClass({
     render: function() {
         return (
             <h1>Ja hallo wereld!</h1>
